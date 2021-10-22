@@ -1,5 +1,6 @@
 # BlenderBot2
 
+Custom retriever defined in `web_retriever.py`
 parlai==1.3.0
 
 The main agent: `BlenderBot2FidAgent(opt)`
