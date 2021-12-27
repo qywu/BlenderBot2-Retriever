@@ -86,6 +86,8 @@ def interactive(opt):
     world_logger = WorldLogger(opt) if opt.get('outfile') else None
     world = create_task(opt, [human_agent, agent])
 
+    breakpoint()
+
     # Show some example dialogs:
     while not world.epoch_done():
         world.parley()

@@ -1,0 +1,116 @@
+1639524334669	geckodriver	INFO	Listening on 127.0.0.1:34061
+1639524334674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "42623" "-no-remote" "-profile" "/tmp/rust_mozprofileJ52iiJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x1a03/0x2000
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+1639524334952	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ52iiJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42623/devtools/browser/5c5c5c34-b957-46f7-8087-55765fdd22ea
+1639524336095	Marionette	INFO	Listening on port 36657
+1639524336202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639524430529	geckodriver	INFO	Listening on 127.0.0.1:33457
+1639524430533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "52337" "-no-remote" "-profile" "/tmp/rust_mozprofilexLPQTq"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x1a03/0x2000
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+1639524430766	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexLPQTq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52337/devtools/browser/1e9ca4fd-bcce-4831-b1db-999d80fe3cff
+1639524431910	Marionette	INFO	Listening on port 34975
+1639524431955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639524546961	geckodriver	INFO	Listening on 127.0.0.1:57261
+1639524546964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "39595" "-no-remote" "-profile" "/tmp/rust_mozprofile0skNDT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x1a03/0x2000
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+1639524547249	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0skNDT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39595/devtools/browser/1d0fcd44-0368-4c18-8d72-b3841436340d
+1639524548346	Marionette	INFO	Listening on port 41917
+1639524548938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639524843934	geckodriver	INFO	Listening on 127.0.0.1:35957
+1639524843938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "35275" "-no-remote" "-profile" "/tmp/rust_mozprofileQ3AJQ0"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x1a03/0x2000
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+1639524844176	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ3AJQ0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35275/devtools/browser/4754dc8e-be8d-4c99-95ec-7d21fba5c89e
+1639524845327	Marionette	INFO	Listening on port 34361
+1639524845364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639871793984	geckodriver	INFO	Listening on 127.0.0.1:52255
+1639871793989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "39319" "-no-remote" "-profile" "/tmp/rust_mozprofileq8XCZu"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: eglCreateContext returned an error
+[GFX1-]: More than 1 GPU vendor detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x1a03/0x2000
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+[GFX1-]: PCI candidate 0x10de/0x2230
+1639871794265	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq8XCZu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39319/devtools/browser/1ea00527-a470-4a66-b545-e50d3a4e0292
+1639871795524	Marionette	INFO	Listening on port 42843
+1639871795640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

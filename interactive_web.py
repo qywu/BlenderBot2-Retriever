@@ -28,7 +28,7 @@ import json
 import time
 
 HOST_NAME = '0.0.0.0'
-PORT = 48888
+PORT = 58123
 
 SHARED: Dict[Any, Any] = {}
 STYLE_SHEET = "https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.css"
@@ -275,7 +275,7 @@ def interactive_web(opt):
 
     opt['task'] = 'parlai.agents.local_human.local_human:LocalHumanAgent'
 
-    with open("blenderbot2-3B.json") as f:
+    with open("blenderbot-3B-new.json") as f:
         opt = json.load(f)
 
     # Create model and assign it to the specified task
