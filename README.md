@@ -1,6 +1,6 @@
-# BlenderBot2
+# BlenderBot2 + Google Retriever
 
-Custom retriever defined in `web_retriever.py`3
+Custom retriever defined in `web_retriever.py`
 
 parlai==1.3.0
 
